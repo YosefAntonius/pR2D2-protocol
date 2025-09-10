@@ -1,5 +1,7 @@
 # pR2D2: A Semantic Serialization Protocol for Prompt Optimization
 
+![Cover](cover.png)
+
 **pR2D2 is a Domain-Specific Language (DSL) designed to make communication with Large Language Models (LLMs) exponentially cheaper, faster, and more reliable.**
 
 This repository contains the official whitepaper and specification for the pR2D2 protocol.
